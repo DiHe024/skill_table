@@ -2,10 +2,9 @@
 ##########################################################################
 --------------------------------------------------------------------------
 	Datum:			09.04.23
-	Name :			D.Henning
-	Modul:			PRG24 - Programmierparadigmen
-	Thema:			Laborbericht zu Klassen und Operationen
-	Beschreibung:	Umsetzung Klassendiagramm der VHS-Aichach-Friedberg
+	Name :			DiHe
+	Thema:			Klassen und Operationen
+	Beschreibung:		Umsetzung Klassendiagramm der VHS
 	Datei:			main.cpp
 --------------------------------------------------------------------------
 ##########################################################################
@@ -16,7 +15,7 @@
 int main(void) {
 
 	Teilnehmer MaxMustermann("01.01.2000", "123456", "Max", "Mustermann", "Max@Mustermann.de", "123456", "Mustermannstrasse", "4a", "01067", "Dresden");
-	//Objekt von Bankverbindung wird gleichzeitig "leer" initialisiert. Deswegen eine zusätzliche Methode zum befüllen.
+	//Objekt von Bankverbindung wird gleichzeitig "leer" initialisiert. Deswegen eine zusÃ¤tzliche Methode zum befÃ¼llen.
 	MaxMustermann.setBank("Volksbank", "DE12 3456 7890 1234", "ABCDEF");
 	//Objekt von Kursbuchung wird bei Buchung unter Angabe der Kursnummer erstellt.
 	MaxMustermann.kursBuchen(1);
