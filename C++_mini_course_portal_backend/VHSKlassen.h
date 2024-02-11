@@ -2,10 +2,9 @@
 ##########################################################################
 --------------------------------------------------------------------------
 	Datum:			09.04.23
-	Name :			D.Henning
-	Modul:			PRG24 - Programmierparadigmen
-	Thema:			Laborbericht zu Klassen und Operationen
-	Beschreibung:	Umsetzung Klassendiagramm der VHS-Aichach-Friedberg
+	Name :			DiHe
+	Thema:			Klassen und Operationen
+	Beschreibung:		Umsetzung Klassendiagramm 
 	Datei:			VHSKlassen.h
 --------------------------------------------------------------------------
 ##########################################################################
